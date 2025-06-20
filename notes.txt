@@ -1,0 +1,10 @@
+Completed - Input,Button - Info Inputs
+Completed - Ul Tag, List Tag - Content Inputs
+Completed - Dynamic Add - Create LiTags
+Completed - Add Data to Local Storage 
+Completed - Duplicate check
+Completed - Edit
+Completed - Multiple Delete Option
+Completed - Mark as Completed Button - Multi Select and strike the Task
+Pending --- Checkbox Design Change
+Media Queries - Apply for Mobile Phones
